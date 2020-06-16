@@ -11,7 +11,7 @@ Each video is an individual shot. Additionally, to avoid the influence of the sh
 The resolution of videos is 720P or 1080P. The framerate is 30 fps.
 
 ## Download
-百度网盘链接: https://pan.baidu.com/s/1pTimrppklDE5ilXfqqTVKw 提取码: j8t8
+BaiduNetDisk: https://pan.baidu.com/s/1pTimrppklDE5ilXfqqTVKw Password: j8t8
 
 ## Citation
 Please consider citing the following paper if the code or dataset is helpful in your research work:
